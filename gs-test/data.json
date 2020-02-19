@@ -1,0 +1,53 @@
+[
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@2.1.17#egg=gs_test-2.1.17",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-2.1.17"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@2.13.31#egg=gs_test-2.13.31",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-2.13.31"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@2.13.30#egg=gs_test-2.13.30",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-2.13.30"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@2.31.31#egg=gs_test-2.31.31",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-2.31.31"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@3.31.13#egg=gs_test-3.31.13",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-3.31.13"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@3.32.32#egg=gs_test-3.32.32",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-3.32.32"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@3.33.33#egg=gs_test-3.33.33",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-3.33.33"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@3.34.34#egg=gs_test-3.34.34",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-3.34.34"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@4.0.15#egg=gs_test-4.0.15",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-4.0.15"
+  },
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_test@4.97.5#egg=gs_test-4.97.5",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-4.97.5"
+  }
+]
+

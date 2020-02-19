@@ -1,0 +1,8 @@
+[
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_lib#egg=gs_lib-0.0.1",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_lib-0.0.1"
+  }
+]
+

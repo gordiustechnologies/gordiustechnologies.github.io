@@ -1,0 +1,8 @@
+[
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_k8s#egg=gs_k8s-0.0.1",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_k8s-0.0.1"
+  }
+]
+

@@ -1,0 +1,8 @@
+[
+  {
+    "href": "git+https://github.com/gordiustechnologies/gs_channels#egg=gs_channels-0.0.1",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_channels-0.0.1"
+  }
+]
+
